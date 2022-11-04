@@ -82,7 +82,7 @@
 #elif defined(TBLE_MIT)
                       &trans     &trans      &trans                &trans             &trans      &trans   &trans
 #else
-                      &trans     &trans      &trans         &trans       &trans        &trans     &trans         &trans
+                      &trans     &trans      &trans         &trans       &trans        &kp LA(BKSP)     &trans         &trans
 #endif
             >;
         };
