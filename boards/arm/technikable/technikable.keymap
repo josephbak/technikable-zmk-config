@@ -75,7 +75,7 @@
             bindings = <
 &trans     &kp LBKT   &kp N7     &kp N8      &kp N9    &kp RBKT    &kp C_PREV    &trans         &trans       &trans       &trans     &trans
 &trans     &kp LBKT   &kp N7     &kp N8      &kp N9    &kp RBKT    &kp C_PREV    &trans         &trans       &trans       &trans     &trans
-&kp HOME     &kp END  &kp PG_UP  &kp PG_DN   &trans       &trans    &trans     &kp BACKSLASH       &kp C_VOLUME_DOWNH   &kp C_MUTE  &kp C_VOLUME_UP    &kp SLASH
+&trans     &kp LBKT   &kp N7     &kp N8      &kp N9    &kp RBKT    &kp C_PREV    &trans         &trans       &trans       &trans     &trans
 #ifdef TBLE_DUAL_2U
                       &trans     &trans              &trans                    &trans       &trans         &trans
 #elif defined(TBLE_MIT)
