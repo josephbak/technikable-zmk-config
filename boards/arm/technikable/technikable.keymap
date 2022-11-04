@@ -73,7 +73,7 @@
         nav_layer {
             label = "Nav";
             bindings = <
-&trans     &kp PIPE     &kp COLON     &trans      &trans          &trans       &trans     &kp COLON        &kp GRAVE      &kp DOUBLE_QUOTES     &kp SINGLE_QUOTE     &kp LALT
+&trans     &kp LBKT   &kp N7     &kp N8      &kp N9    &kp RBKT    &kp C_PREV    &trans         &trans       &trans       &trans     &trans
 &kp TILDE     &kp EXCL     &kp EQUAL     &kp UNDERSCORE      &kp QMARK          &trans       &trans     &kp LEFT       &kp DOWN    &kp UP   &kp RIGHT   &kp SEMICOLON
 &kp HOME     &kp END  &kp PG_UP  &kp PG_DN   &trans       &trans    &trans     &kp BACKSLASH       &kp C_VOLUME_DOWNH   &kp C_MUTE  &kp C_VOLUME_UP    &kp SLASH
 #ifdef TBLE_DUAL_2U
